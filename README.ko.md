@@ -5,7 +5,7 @@ This project is available in multiple languages.
 
 프로젝트 팀원: Anna Navarro, Andressa, Michele Cristina Otta, Letícia Aiko, Yejin Chung
 
-<h1>프로젝트 설명</h1>
+<h2>프로젝트 설명</h2>
 이 프로젝트는 학기말 과제로 진행된 작업으로, 파이썬(Python) 언어를 사용하여 **가위바위보 게임(Jokenpô)**을 구현한 것입니다. 게임은 세 가지 모드로 동작합니다
 
 1.사람 vc 사람
