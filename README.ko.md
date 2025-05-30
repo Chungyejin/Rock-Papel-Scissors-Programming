@@ -1,29 +1,32 @@
-# ROCK PAPEL SCISSORS
+# 가위바위보
 This project is available in multiple languages.
 - [English](README.md)
 - [Português](README.pt.md)
 
-Project Team: Anna Navarro, Andressa, Michele Cristina Otta, Letícia Aiko, Yejin Chung
+프로젝트 팀원: Anna Navarro, Andressa, Michele Cristina Otta, Letícia Aiko, Yejin Chung
 
-Project Description
-This project was developed as part of our final assignment for the semester, with the goal of creating a Rock Paper Scissors (Jokenpô) game using the Python programming language. The game was implemented to function in three distinct modes:
+<h1>프로젝트 설명</h1>
+이 프로젝트는 학기말 과제로 진행된 작업으로, 파이썬(Python) 언어를 사용하여 **가위바위보 게임(Jokenpô)**을 구현한 것입니다. 게임은 세 가지 모드로 동작합니다
 
-Player vs. Player
+1.사람 vc 사람
+2.사람 vs 로봇
+3.로봇 vs 로봇
 
-Player vs. Robot
+이 프로젝트의 주요 목표는 가위바위보 게임의 로직을 파이썬으로 구현하고, 사용자가 직관적으로 상호작용할 수 있는 간단한 인터페이스를 제공하는 것입니다. 또한, 게임은 사람 대 사람, 사람 대 로봇, 로봇 대 로봇 모드를 지원하여 다양한 방식으로 즐길 수 있습니다
 
-Robot vs. Robot
+<h3>주요기능</h3>
+사람 vs. 사람 모드: 두 사람이 번갈아 가며 가위바위보를 진행하는 모드.
 
-The main objective of this project was to implement the game logic in Python, create a simple and intuitive interface, and allow users to interact dynamically with the system. The game supports Player vs. Player, Player vs. Robot, and Robot vs. Robot modes, offering different ways to play.
+사람 vs. 로봇 모드: 사용자가 로봇과 대결하는 모드. 로봇은 무작위로 선택을 합니다.
+
+로봇 vs. 로봇 모드: 두 로봇이 자동으로 대결하는 모드. 결과는 게임이 진행될 때마다 출력됩니다.
+
+<h3>사용된 기술</h3>
+파이썬(Python 3.x): 게임 로직을 구현하는 데 사용한 주요 프로그래밍 언어.
+파이썬 표준 라이브러리: random을 사용하여 무작위 선택을 구현하고, 게임의 로직을 제어하는 데 활용
 
 ![image](https://github.com/user-attachments/assets/209b73af-288f-4d77-b24e-767bd0d20649)
 
-Key Features
-Player vs. Player Mode: Allows two players to play a round of Rock Paper Scissors, taking turns to make their moves.
-
-Player vs. Robot Mode: The human player competes against a robot that makes random choices.
-
-Robot vs. Robot Mode: Two robots automatically play against each other, with the results displayed after each round.
 
 ![image](https://github.com/user-attachments/assets/62af4052-70fc-4917-9cbb-a4fad66a161b)
 
