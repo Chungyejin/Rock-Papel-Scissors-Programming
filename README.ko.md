@@ -1,5 +1,5 @@
 # 가위바위보
-This project is available in multiple languages.
+이 프로젝트는 여러언어로 제공됩니다.
 - [English](README.md)
 - [Português](README.pt.md)
 
@@ -7,7 +7,9 @@ This project is available in multiple languages.
 
 <h2>프로젝트 설명</h2>
 이 프로젝트는 1학년 1학기 과제로 진행된 작업으로, 파이썬(Python) 언어를 사용하여 **가위바위보 게임**을 구현한 것입니다. 게임은 세 가지 모드로 동작합니다<br>
-<h3></h3>
+
+
+
 <div>
   1.사람 vs 사람<br>
   2.사람 vs 로봇<br>
