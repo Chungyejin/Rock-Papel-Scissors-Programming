@@ -5,7 +5,7 @@ This project is available in multiple languages.
 
 Project Team: Anna Navarro, Andressa, Michele Cristina Otta, Letícia Aiko, Yejin Chung
 
-Project Description
+<h2>Project Description</h2>
 This project was developed as part of our final assignment for the semester, with the goal of creating a Rock Paper Scissors (Jokenpô) game using the Python programming language. The game was implemented to function in three distinct modes:
 
 Player vs. Player
