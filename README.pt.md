@@ -3,10 +3,6 @@ This project is available in multiple languages.
 - [한국어](README.ko.md)
 - [English](README.md)
 
-Claro! Aqui está a tradução para o português:
-
----
-
 **Equipe do Projeto:** Anna Navarro, Andressa, Michele Cristina Otta, Letícia Aiko, Yejin Chung
 
 <h2>Descrição do Projeto</h2>  
