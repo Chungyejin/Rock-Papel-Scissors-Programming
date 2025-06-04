@@ -16,7 +16,7 @@ Robot vs. Robot
 
 The main objective of this project was to implement the game logic in Python, create a simple and intuitive interface, and allow users to interact dynamically with the system. The game supports Player vs. Player, Player vs. Robot, and Robot vs. Robot modes, offering different ways to play.
 
-Key Features
+<h3>Key Features</h3>
 Player vs. Player Mode: Allows two players to play a round of Rock Paper Scissors, taking turns to make their moves.
 
 Player vs. Robot Mode: The human player competes against a robot that makes random choices.
