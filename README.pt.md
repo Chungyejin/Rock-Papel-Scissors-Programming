@@ -8,9 +8,9 @@ Este projeto está disponível em vários idiomas.
 <h2>Descrição do Projeto</h2>  
 Este projeto foi desenvolvido como parte do nosso trabalho final do semestre, com o objetivo de criar um jogo de Pedra, Papel e Tesoura (Jokenpô) utilizando a linguagem de programação Python. O jogo foi implementado para funcionar em três modos distintos:
 
-* Jogador vs. Jogador
-* Jogador vs. Robô
-* Robô vs. Robô
+Jogador vs. Jogador
+Jogador vs. Robô
+Robô vs. Robô
 
 O principal objetivo deste projeto foi implementar a lógica do jogo em Python, criar uma interface simples e intuitiva e permitir que os usuários interajam dinamicamente com o sistema. O jogo oferece suporte aos modos Jogador vs. Jogador, Jogador vs. Robô e Robô vs. Robô, proporcionando diferentes formas de jogar.
 
