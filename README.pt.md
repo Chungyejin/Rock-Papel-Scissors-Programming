@@ -1,5 +1,5 @@
 # ROCK PAPEL SCISSORS
-This project is available in multiple languages.
+Este projeto está disponível em vários idiomas.
 - [한국어](README.ko.md)
 - [English](README.md)
 
